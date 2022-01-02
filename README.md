@@ -5,6 +5,8 @@ YouTube tutorial/showcase video: https://youtu.be/q6PNleSnvUE
 
 The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
 
+NB! For issues section and bugs, please provide a Minecraft crash log. 
+
 All necessary links:
 
 Optifine: https://optifine.net/downloads
