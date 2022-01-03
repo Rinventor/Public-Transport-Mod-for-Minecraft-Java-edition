@@ -8,9 +8,12 @@ NB! For issues and bugs, please provide a Minecraft crash log if game crashes. O
 If you wish to translate this mod to other languages download the lang_for_translating.json file and send the translated file to rjrs13741@gmail.com.
 
 #1.12.2
+
 UNDER DEVELOPMENT - Coming soon (hopefully)
 
+
 #1.16.5
+
 The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
 
 Optifine: https://optifine.net/downloads
