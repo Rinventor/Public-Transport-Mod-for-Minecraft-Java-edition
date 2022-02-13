@@ -11,7 +11,7 @@ If you wish to translate this mod to other languages download the lang_for_trans
 
 YouTube update video (1.17.1): 
 
-The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
+The mod depends on Geckolib3 3.0.15 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
 
 
 
