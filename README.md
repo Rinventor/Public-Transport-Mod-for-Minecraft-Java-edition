@@ -9,11 +9,11 @@ If you wish to translate this mod to other languages download the lang_for_trans
 
 #1.17.1
 
-YouTube update video (1.17.1): 
+YouTube update video (1.17.1): https://youtu.be/q5TCIKaTVLg
 
 The mod depends on Geckolib3 3.0.15 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
 
-
+Texture pack: https://drive.google.com/file/d/1GttkqGExv8GqUAWIzC7rOh9Drgd51Abr/view?usp=sharing
 
 
 #1.16.5
