@@ -1,13 +1,24 @@
 # Public-Transport-Mod-for-Minecraft-Java-edition
 TransportMod offers ridable cars, AI traffic, traffic lights, busses, trolleybuses, trams, underground trains and many more.
 
-YouTube tutorial/showcase video: https://youtu.be/q6PNleSnvUE
-
 NB! For issues and bugs, please provide a Minecraft crash log if game crashes. Otherwise describe the issue.
 
 If you wish to translate this mod to other languages download the lang_for_translating.json file and send the translated file to rjrs13741@gmail.com.
 
+
+
+#1.17.1
+
+YouTube update video (1.17.1): 
+
+The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
+
+
+
+
 #1.16.5
+
+YouTube tutorial/showcase video (1.16.5): https://youtu.be/q6PNleSnvUE
 
 The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
 
