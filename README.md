@@ -7,34 +7,21 @@ If you wish to translate this mod to other languages download the lang_for_trans
 
 
 
-#1.17.1
-
 YouTube update video (1.17.1): https://youtu.be/q5TCIKaTVLg
 
-The mod depends on Geckolib3 3.0.15 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
+The mod depends on Geckolib3 3.0.15 (or higher) for 1.17.1: https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
 
 Texture pack: https://drive.google.com/file/d/1GttkqGExv8GqUAWIzC7rOh9Drgd51Abr/view?usp=sharing
 
-
-#1.16.5
-
 YouTube tutorial/showcase video (1.16.5): https://youtu.be/q6PNleSnvUE
 
-The mod depends on Geckolib3 3.0.57 (or higher): https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
-
-Optifine: https://optifine.net/downloads
+The mod depends on Geckolib3 3.0.57 (or higher) for 1.16.5: https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
 
 JourneyMap: https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A8203
-
-AmbientCitySounds: https://www.curseforge.com/minecraft/mc-mods/public-transport-mod/files/3587691
-
-Creative Core: https://www.curseforge.com/minecraft/mc-mods/creativecore/files/all?filter-game-version=2020709689%3A8203
 
 MCA Selector: https://github.com/Querz/mcaselector/releases
 
 Paint.NET: https://www.getpaint.net/download.html
-
-Original AmbientSounds Mod: https://www.curseforge.com/minecraft/mc-mods/ambientsounds
 
 1.15 Trains datapack: https://www.youtube.com/watch?v=wMnQfpvkJJ4
 
