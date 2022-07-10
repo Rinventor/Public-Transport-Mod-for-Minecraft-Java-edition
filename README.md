@@ -7,15 +7,11 @@ If you wish to translate this mod to other languages download the lang_for_trans
 
 
 
-YouTube update video (1.17.1): https://youtu.be/q5TCIKaTVLg
+YouTube: https://www.youtube.com/playlist?list=PLP6PEFjiVaVsrvNykJVofw_G8jF6pz9gG
 
-The mod depends on Geckolib3 3.0.15 (or higher) for 1.17.1: https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3601143
+Wiki: https://sites.google.com/view/public-transport-mod/en
 
-Texture pack: https://drive.google.com/file/d/1GttkqGExv8GqUAWIzC7rOh9Drgd51Abr/view?usp=sharing
 
-YouTube tutorial/showcase video (1.16.5): https://youtu.be/q6PNleSnvUE
-
-The mod depends on Geckolib3 3.0.57 (or higher) for 1.16.5: https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8203
 
 JourneyMap: https://www.curseforge.com/minecraft/mc-mods/journeymap/files/all?filter-game-version=2020709689%3A8203
 
